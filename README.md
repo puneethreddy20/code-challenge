@@ -4,7 +4,7 @@ To run the application you would need docker installed. Install docker first.
 Unzip the package
 
 ```
-$ cd applechallenge
+$ cd code-challenge
 
 //Create a docker custom network
 $ sudo docker network create --subnet=172.18.0.0/16 mycustomnet
